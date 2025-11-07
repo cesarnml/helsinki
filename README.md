@@ -33,8 +33,10 @@
 
 - Workload is around 10-20h/week
 - Watched Part01 Lecture (1 hour)
-- Start Part01 Material (12:51pm)
-- Learning Objectives:
-  - Write and execute first Python program
-  - Know how to use the `print` command
-  - Program using arithmetic operations
+- Start Part01 Material (2025.11.07 12:51pm)
+- Section01 - Getting Started
+  - Learning Objectives:
+    - Write and execute first Python program
+    - Know how to use the `print` command
+    - Program using arithmetic operations
+- Section 02 - Information from the User (2025.11.07 1:29pm)
