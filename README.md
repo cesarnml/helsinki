@@ -7,6 +7,7 @@
     - [Part 01](#part-01)
       - [Section 01 - Getting started](#section-01---getting-started)
       - [Section 02 - Information from the user](#section-02---information-from-the-user)
+      - [Section 03 - More about variables](#section-03---more-about-variables)
 
 ## Sections
 
@@ -40,12 +41,12 @@
 
 - Workload is around 10-20h/week
 - Watched Part01 Lecture (1 hour) - 2025.11.07
-- Start Part01 Material (2025.11.07 12:51pm)
+- Start Part01 Material (2025.11.07 12:51PM)
 
 #### Section 01 - Getting started
 
-- **Started:** 2025.11.07 12:51pm
-- **Completed:** 2025.11.07 01:25pm
+- **Started:** 2025.11.07 12:51PM
+- **Completed:** 2025.11.07 01:25PM
 - **Duration:** ~34 minutes
 - Learning Objectives:
   - Write and execute first Python program
@@ -54,10 +55,20 @@
 
 #### Section 02 - Information from the user
 
-- **Started:** 2025.11.07 01:29pm
-- **Completed:** 2025.11.07 01:56pm
+- **Started:** 2025.11.07 01:29PM
+- **Completed:** 2025.11.07 01:56PM
 - **Duration:** ~27 minutes
 - Learning Objectives:
   - Write a program that uses input from the user
   - Use variables to store input and print it out
   - Combine strings
+
+#### Section 03 - More about variables
+
+- **Started:** 2025.11.07 4:32PM
+- Learning Objectives:
+  - More use of variables
+  - Learn what type of data can be stored in variables
+  - Differentiate between strings, integers and floating point numbers
+- A variable name in Python needs to begin with a letter and consist of only letters, underscores, and numbers
+  - Variables are case-sensitive

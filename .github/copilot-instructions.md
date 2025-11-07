@@ -48,14 +48,16 @@ helsinki/
 - Add notes under the relevant `### Part {NN}` section in README.md
 - All learning notes stay in the top-level README.md (not in separate files)
 - Track time for each section using this format:
+
   ```markdown
   #### Section {NN} - Topic Name
 
-  - **Started:** YYYY.MM.DD HH:MMam/pm
-  - **Completed:** YYYY.MM.DD HH:MMam/pm
+  - **Started:** YYYY.MM.DD HH:MMAM/PM
+  - **Completed:** YYYY.MM.DD HH:MMAM/PM
   - **Duration:** ~X minutes/hours
   - Learning Objectives: [list objectives]
   ```
+
 - Use git commits with "begin section" and "complete section" messages to create automatic timestamps
 - Calculate duration from git log timestamps: `git log --format="%ad|%s" --date=iso`
 
