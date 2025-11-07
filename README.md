@@ -12,8 +12,8 @@
 
 - Introduction to Programming
   - [ ] Part 01
-    - [ ] Section 01 - Getting started
-    - [ ] Section 02 - Information from the user
+    - [x] ~~_Section 01 - Getting started_~~ [2025-11-07]
+    - [x] ~~_Section 02 - Information from the user_~~ [2025-11-07]
     - [ ] Section 03 - More about variables
     - [ ] Section 04 - Arithmetic operations
     - [ ] Section 05 - Conditional statements
@@ -45,7 +45,7 @@
 #### Section 01 - Getting started
 
 - **Started:** 2025.11.07 12:51pm
-- **Completed:** 2025.11.07 1:25pm
+- **Completed:** 2025.11.07 01:25pm
 - **Duration:** ~34 minutes
 - Learning Objectives:
   - Write and execute first Python program
@@ -54,7 +54,9 @@
 
 #### Section 02 - Information from the user
 
-- **Started:** 2025.11.07 1:29pm
+- **Started:** 2025.11.07 01:29pm
+- **Completed:** 2025.11.07 01:56pm
+- **Duration:** ~27 minutes
 - Learning Objectives:
   - Write a program that uses input from the user
   - Use variables to store input and print it out
