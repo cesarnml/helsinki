@@ -5,11 +5,18 @@
   - [Notes](#notes)
     - [Introduction to Programming](#introduction-to-programming)
     - [Part 01](#part-01)
+      - [Section 01 - Getting started](#section-01---getting-started)
+      - [Section 02 - Information from the user](#section-02---information-from-the-user)
 
 ## Sections
 
 - Introduction to Programming
   - [ ] Part 01
+    - [ ] Section 01 - Getting started
+    - [ ] Section 02 - Information from the user
+    - [ ] Section 03 - More about variables
+    - [ ] Section 04 - Arithmetic operations
+    - [ ] Section 05 - Conditional statements
   - [ ] Part 02
   - [ ] Part 03
   - [ ] Part 04
@@ -32,11 +39,23 @@
 ### Part 01
 
 - Workload is around 10-20h/week
-- Watched Part01 Lecture (1 hour)
+- Watched Part01 Lecture (1 hour) - 2025.11.07
 - Start Part01 Material (2025.11.07 12:51pm)
-- Section01 - Getting Started
-  - Learning Objectives:
-    - Write and execute first Python program
-    - Know how to use the `print` command
-    - Program using arithmetic operations
-- Section 02 - Information from the User (2025.11.07 1:29pm)
+
+#### Section 01 - Getting started
+
+- **Started:** 2025.11.07 12:51pm
+- **Completed:** 2025.11.07 1:25pm
+- **Duration:** ~34 minutes
+- Learning Objectives:
+  - Write and execute first Python program
+  - Know how to use the `print` command
+  - Program using arithmetic operations
+
+#### Section 02 - Information from the user
+
+- **Started:** 2025.11.07 1:29pm
+- Learning Objectives:
+  - Write a program that uses input from the user
+  - Use variables to store input and print it out
+  - Combine strings
