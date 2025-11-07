@@ -11,6 +11,10 @@
       - [Section 04 - Arithmetic operations](#section-04---arithmetic-operations)
       - [Section 05 - Conditional statements](#section-05---conditional-statements)
     - [Part 02](#part-02)
+      - [Section 01 - Programming terminology](#section-01---programming-terminology)
+      - [Section 02 - More conditionals](#section-02---more-conditionals)
+      - [Section 03 - Combining conditions](#section-03---combining-conditions)
+      - [Section 04 - Simple loops](#section-04---simple-loops)
 
 ## Sections
 
@@ -110,3 +114,11 @@
   - Use comparison operators in conditionals
 
 ### Part 02
+
+#### Section 01 - Programming terminology
+
+#### Section 02 - More conditionals
+
+#### Section 03 - Combining conditions
+
+#### Section 04 - Simple loops
