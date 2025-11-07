@@ -8,6 +8,7 @@
       - [Section 01 - Getting started](#section-01---getting-started)
       - [Section 02 - Information from the user](#section-02---information-from-the-user)
       - [Section 03 - More about variables](#section-03---more-about-variables)
+      - [Section 04 - Arithmetic operations](#section-04---arithmetic-operations)
 
 ## Sections
 
@@ -74,3 +75,5 @@
   - Differentiate between strings, integers and floating point numbers
 - A variable name in Python needs to begin with a letter and consist of only letters, underscores, and numbers
   - Variables are case-sensitive
+
+#### Section 04 - Arithmetic operations
