@@ -65,7 +65,9 @@
 
 #### Section 03 - More about variables
 
-- **Started:** 2025.11.07 4:32PM
+- **Started:** 2025.11.07 04:32PM
+- **Completed:** 2025.11.07 05:05PM
+- **Duration:** ~33 minutes
 - Learning Objectives:
   - More use of variables
   - Learn what type of data can be stored in variables
