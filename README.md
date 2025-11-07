@@ -9,17 +9,17 @@
       - [Section 02 - Information from the user](#section-02---information-from-the-user)
       - [Section 03 - More about variables](#section-03---more-about-variables)
       - [Section 04 - Arithmetic operations](#section-04---arithmetic-operations)
-  - [Section 05 - Conditional statements](#section-05---conditional-statements)
+      - [Section 05 - Conditional statements](#section-05---conditional-statements)
 
 ## Sections
 
 - Introduction to Programming
-  - [ ] Part 01
+  - [x] ~~_Part 01_~~ [2025-11-07]
     - [x] ~~_Section 01 - Getting started_~~ [2025-11-07]
     - [x] ~~_Section 02 - Information from the user_~~ [2025-11-07]
-    - [ ] Section 03 - More about variables
-    - [ ] Section 04 - Arithmetic operations
-    - [ ] Section 05 - Conditional statements
+    - [x] ~~_Section 03 - More about variables_~~ [2025-11-07]
+    - [x] ~~_Section 04 - Arithmetic operations_~~ [2025-11-07]
+    - [x] ~~_Section 05 - Conditional statements_~~ [2025-11-07]
   - [ ] Part 02
   - [ ] Part 03
   - [ ] Part 04
@@ -41,7 +41,16 @@
 
 ### Part 01
 
-- Workload is around 10-20h/week
+**Summary:**
+
+- **Total Duration:** ~3 hours 42 minutes
+  - Section 01: ~34 minutes
+  - Section 02: ~27 minutes
+  - Section 03: ~33 minutes
+  - Section 04: ~42 minutes
+  - Section 05: ~1.1 hours (66 minutes)
+- **Completed:** 2025.11.07
+- Workload is around 10-20h/week (actual: ~3.7 hours for exercises + 1 hour lecture = ~4.7 hours total)
 - Watched Part01 Lecture (1 hour) - 2025.11.07
 - Start Part01 Material (2025.11.07 12:51PM)
 
@@ -89,8 +98,11 @@
 - `/` Division with float result
 - `//` division with integer result
 
-## Section 05 - Conditional statements
+#### Section 05 - Conditional statements
 
+- **Started:** 2025.11.07 05:52PM
+- **Completed:** 2025.11.07 06:57PM
+- **Duration:** ~1.1 hours
 - Learning Objectives:
   - Use simple conditional statements
   - Learn about boolean values
