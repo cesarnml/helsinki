@@ -30,3 +30,11 @@
 ### Introduction to Programming
 
 ### Part 01
+
+- Workload is around 10-20h/week
+- Watched Part01 Lecture (1 hour)
+- Start Part01 Material (12:51pm)
+- Learning Objectives:
+  - Write and execute first Python program
+  - Know how to use the `print` command
+  - Program using arithmetic operations
