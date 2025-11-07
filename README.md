@@ -77,3 +77,10 @@
   - Variables are case-sensitive
 
 #### Section 04 - Arithmetic operations
+
+- Learning Objectives:
+  - Use variables in various arithmetic operations
+  - Learn how to process user input as numbers
+  - Learn how to cast values
+- `/` Division with float result
+- `//` division with integer result
