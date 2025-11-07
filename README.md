@@ -9,6 +9,7 @@
       - [Section 02 - Information from the user](#section-02---information-from-the-user)
       - [Section 03 - More about variables](#section-03---more-about-variables)
       - [Section 04 - Arithmetic operations](#section-04---arithmetic-operations)
+  - [Section 05 - Conditional statements](#section-05---conditional-statements)
 
 ## Sections
 
@@ -87,3 +88,10 @@
   - Learn how to cast values
 - `/` Division with float result
 - `//` division with integer result
+
+## Section 05 - Conditional statements
+
+- Learning Objectives:
+  - Use simple conditional statements
+  - Learn about boolean values
+  - Use comparison operators in conditionals
