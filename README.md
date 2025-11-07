@@ -10,6 +10,7 @@
       - [Section 03 - More about variables](#section-03---more-about-variables)
       - [Section 04 - Arithmetic operations](#section-04---arithmetic-operations)
       - [Section 05 - Conditional statements](#section-05---conditional-statements)
+    - [Part 02](#part-02)
 
 ## Sections
 
@@ -107,3 +108,5 @@
   - Use simple conditional statements
   - Learn about boolean values
   - Use comparison operators in conditionals
+
+### Part 02
