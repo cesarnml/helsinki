@@ -26,6 +26,10 @@
     - [x] ~~_Section 04 - Arithmetic operations_~~ [2025-11-07]
     - [x] ~~_Section 05 - Conditional statements_~~ [2025-11-07]
   - [ ] Part 02
+    - [x] ~~_Section 01 - Programming terminology_~~ [2025-11-08]
+    - [ ] Section 02 - More conditionals
+    - [ ] Section 03 - Combining conditions
+    - [ ] Section 04 - Simple loops
   - [ ] Part 03
   - [ ] Part 04
   - [ ] Part 05
@@ -130,6 +134,10 @@
   - `type("Anna") # <class 'str'>'`
 
 #### Section 02 - More conditionals
+
+- Learning Objectives:
+  - Learn to implement multi-branched conditional statements (`if`, `elif`, `else`)
+  - Use of modulo operator `%` in boolean expressions
 
 #### Section 03 - Combining conditions
 
