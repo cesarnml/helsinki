@@ -25,11 +25,11 @@
     - [x] ~~_Section 03 - More about variables_~~ [2025-11-07]
     - [x] ~~_Section 04 - Arithmetic operations_~~ [2025-11-07]
     - [x] ~~_Section 05 - Conditional statements_~~ [2025-11-07]
-  - [ ] Part 02
+  - [x] ~~_Part 02_~~ [2025-11-08]
     - [x] ~~_Section 01 - Programming terminology_~~ [2025-11-08]
-    - [ ] Section 02 - More conditionals
-    - [ ] Section 03 - Combining conditions
-    - [ ] Section 04 - Simple loops
+    - [x] ~~_Section 02 - More conditionals_~~ [2025-11-08]
+    - [x] ~~_Section 03 - Combining conditions_~~ [2025-11-08]
+    - [x] ~~_Section 04 - Simple loops_~~ [2025-11-08]
   - [ ] Part 03
   - [ ] Part 04
   - [ ] Part 05
@@ -118,7 +118,16 @@
 
 ### Part 02
 
+**Summary:**
+
+- **Total Duration:** ~3 hours 5 minutes
+  - Section 01: ~25 minutes
+  - Section 02: ~16 minutes
+  - Section 03: ~58 minutes
+  - Section 04: ~1.1 hours (66 minutes)
+- **Completed:** 2025.11.08
 - Watched Part02 Lecture (90 minutes but at 2x speed so 45 min)
+- Total with lecture: ~3.8 hours
 
 #### Section 01 - Programming terminology
 
@@ -153,6 +162,9 @@
 
 #### Section 04 - Simple loops
 
+- **Started:** 2025.11.08 05:43PM
+- **Completed:** 2025.11.08 06:47PM
+- **Duration:** ~1.1 hours
 - Learning Objectives:
   - Learn how to use programming loops
   - Learn about the `while` loop
