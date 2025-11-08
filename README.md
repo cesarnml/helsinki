@@ -118,6 +118,14 @@
 
 #### Section 01 - Programming terminology
 
+- Learning Objectives:
+  - Review essential programming terminology
+  - Difference between a programming **statement** and **expression**
+  - Determine the data type of an evaluated expression
+  - Learn some debugging methods
+- The `type` function can be used to determine the data type of an expression.
+  - `type("Anna") # <class 'str'>'`
+
 #### Section 02 - More conditionals
 
 #### Section 03 - Combining conditions
