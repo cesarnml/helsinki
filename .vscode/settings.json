@@ -24,5 +24,11 @@
     "titleBar.inactiveBackground": "#27ada199",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#27ada1"
+  "peacock.color": "#27ada1",
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false
+  },
+  "editor.formatOnSave": true
 }

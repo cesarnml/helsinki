@@ -57,7 +57,6 @@
 - **Completed:** 2025.11.07
 - Workload is around 10-20h/week (actual: ~3.7 hours for exercises + 1 hour lecture = ~4.7 hours total)
 - Watched Part01 Lecture (1 hour) - 2025.11.07
-- Start Part01 Material (2025.11.07 12:51PM)
 
 #### Section 01 - Getting started
 
@@ -114,6 +113,8 @@
   - Use comparison operators in conditionals
 
 ### Part 02
+
+- Watched Part02 Lecture (90 minutes but at 2x speed so 45 min)
 
 #### Section 01 - Programming terminology
 
