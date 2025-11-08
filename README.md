@@ -144,4 +144,8 @@
 
 #### Section 03 - Combining conditions
 
+- Learning Objectives:
+  - Use of operators `and`, `or`, and `not`
+  - Use of nested conditionals
+
 #### Section 04 - Simple loops
