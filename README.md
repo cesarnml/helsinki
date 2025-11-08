@@ -152,3 +152,8 @@
   - Use of nested conditionals
 
 #### Section 04 - Simple loops
+
+- Learning Objectives:
+  - Learn how to use programming loops
+  - Learn about the `while` loop
+  - Learn about the `break` keyword
