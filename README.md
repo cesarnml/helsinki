@@ -144,6 +144,9 @@
 
 #### Section 03 - Combining conditions
 
+- **Started:** 2025.11.08 02:46PM
+- **Completed:** 2025.11.08 03:45PM
+- **Duration:** ~58 minutes
 - Learning Objectives:
   - Use of operators `and`, `or`, and `not`
   - Use of nested conditionals
