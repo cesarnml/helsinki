@@ -135,6 +135,9 @@
 
 #### Section 02 - More conditionals
 
+- **Started:** 2025.11.08 02:25PM
+- **Completed:** 2025.11.08 02:41PM
+- **Duration:** ~16 minutes
 - Learning Objectives:
   - Learn to implement multi-branched conditional statements (`if`, `elif`, `else`)
   - Use of modulo operator `%` in boolean expressions
