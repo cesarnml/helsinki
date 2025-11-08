@@ -118,6 +118,9 @@
 
 #### Section 01 - Programming terminology
 
+- **Started:** 2025.11.08 12:05PM
+- **Completed:** 2025.11.08 12:31PM
+- **Duration:** ~25 minutes
 - Learning Objectives:
   - Review essential programming terminology
   - Difference between a programming **statement** and **expression**
