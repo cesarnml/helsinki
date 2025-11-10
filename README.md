@@ -15,6 +15,11 @@
       - [Section 02 - More conditionals](#section-02---more-conditionals)
       - [Section 03 - Combining conditions](#section-03---combining-conditions)
       - [Section 04 - Simple loops](#section-04---simple-loops)
+    - [Part 03](#part-03)
+      - [Section 01 - Loops with conditions](#section-01---loops-with-conditions)
+      - [Section 02 - Working with strings](#section-02---working-with-strings)
+      - [Section 03 - More loops](#section-03---more-loops)
+      - [Section 04 - Define functions](#section-04---define-functions)
 
 ## Sections
 
@@ -169,3 +174,20 @@
   - Learn how to use programming loops
   - Learn about the `while` loop
   - Learn about the `break` keyword
+
+### Part 03
+
+- Watched Part03 Lecture (90 minutes but at 2x speed so 45 min)
+
+#### Section 01 - Loops with conditions
+
+- Learning Objectives:
+  - Use a while loop with a condition
+  - Implement initialization, conditional check, and updating condition variables in a loop
+  - More loop stuff
+
+#### Section 02 - Working with strings
+
+#### Section 03 - More loops
+
+#### Section 04 - Define functions
