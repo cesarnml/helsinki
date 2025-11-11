@@ -191,6 +191,12 @@
 
 #### Section 02 - Working with strings
 
+- Learning Objectives:
+  - Use of `+` and `*` operators on strings
+  - How to determine the length of a string, `len(...)`
+  - Use string indexing
+  - Use substrings
+
 #### Section 03 - More loops
 
 #### Section 04 - Define functions
