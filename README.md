@@ -181,6 +181,9 @@
 
 #### Section 01 - Loops with conditions
 
+- **Started:** 2025.11.11 01:53PM
+- **Completed:** 2025.11.11 02:36PM
+- **Duration:** ~43 minutes
 - Learning Objectives:
   - Use a while loop with a condition
   - Implement initialization, conditional check, and updating condition variables in a loop
