@@ -35,7 +35,7 @@
     - [x] ~~_Section 02 - More conditionals_~~ [2025-11-08]
     - [x] ~~_Section 03 - Combining conditions_~~ [2025-11-08]
     - [x] ~~_Section 04 - Simple loops_~~ [2025-11-08]
-  - [ ] Part 03
+  - [x] ~~_Part 03_~~ [2025-11-11]
   - [ ] Part 04
   - [ ] Part 05
   - [ ] Part 06
