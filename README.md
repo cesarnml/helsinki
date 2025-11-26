@@ -203,9 +203,17 @@
 
 #### Section 03 - More loops
 
+- **Started:** 2025.11.26 02:22PM
+- **Completed:** 2025.11.26 03:18PM
+- **Duration:** ~56 minutes
 - Learning Objectives:
   - More about `break`
   - Use of `continue`
   - Practice nested loops
 
 #### Section 04 - Define functions
+
+- Learning Objectives:
+  - Write and Call functions `def`
+  - Discern arguments and parameters of a function
+  - Define parameters in functions
