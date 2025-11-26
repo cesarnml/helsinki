@@ -203,4 +203,9 @@
 
 #### Section 03 - More loops
 
+- Learning Objectives:
+  - More about `break`
+  - Use of `continue`
+  - Practice nested loops
+
 #### Section 04 - Define functions
