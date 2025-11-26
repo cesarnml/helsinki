@@ -192,6 +192,7 @@
 
 #### Section 02 - Working with strings
 
+- **Started:** 2025.11.26 12:17PM
 - Learning Objectives:
   - Use of `+` and `*` operators on strings
   - How to determine the length of a string, `len(...)`
