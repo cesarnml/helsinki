@@ -178,7 +178,16 @@
 
 ### Part 03
 
+**Summary:**
+
+- **Total Duration:** ~4 hours 39 minutes
+  - Section 01: ~43 minutes
+  - Section 02: ~2.0 hours (120 minutes)
+  - Section 03: ~56 minutes
+  - Section 04: ~1 hour (60 minutes)
+- **Completed:** 2025.11.27
 - Watched Part03 Lecture (90 minutes but at 2x speed so 45 min)
+- Total with lecture: ~5.4 hours
 
 #### Section 01 - Loops with conditions
 
@@ -213,6 +222,9 @@
 
 #### Section 04 - Define functions
 
+- **Started:** 2025.11.26 05:20PM
+- **Completed:** 2025.11.27 03:02PM
+- **Duration:** ~1 hour (spread across 2 days)
 - Learning Objectives:
   - Write and Call functions `def`
   - Discern arguments and parameters of a function
