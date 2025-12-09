@@ -20,6 +20,13 @@
       - [Section 02 - Working with strings](#section-02---working-with-strings)
       - [Section 03 - More loops](#section-03---more-loops)
       - [Section 04 - Define functions](#section-04---define-functions)
+    - [Part 04](#part-04)
+      - [Section 01 - The VS Code](#section-01---the-vs-code)
+      - [Section 02 - More functions](#section-02---more-functions)
+      - [Section 03 - Lists](#section-03---lists)
+      - [Section 04 - Definite iteration](#section-04---definite-iteration)
+      - [Section 05 - Print statement formatting](#section-05---print-statement-formatting)
+      - [Section 06 - More strings and lists](#section-06---more-strings-and-lists)
 
 ## Sections
 
@@ -216,7 +223,7 @@
 - **Completed:** 2025.11.26 03:18PM
 - **Duration:** ~56 minutes
 - Learning Objectives:
-  - More about `break`
+  - More abut `break`
   - Use of `continue`
   - Practice nested loops
 
@@ -229,3 +236,21 @@
   - Write and Call functions `def`
   - Discern arguments and parameters of a function
   - Define parameters in functions
+
+### Part 04
+
+#### Section 01 - The VS Code
+
+- Learning Outcomes
+  - Use VS Code
+  - Python interactive interpreter
+
+#### Section 02 - More functions
+
+#### Section 03 - Lists
+
+#### Section 04 - Definite iteration
+
+#### Section 05 - Print statement formatting
+
+#### Section 06 - More strings and lists
