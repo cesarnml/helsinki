@@ -330,6 +330,12 @@
 
 #### Section 02 - References
 
+- Learning Objectives:
+  - Know what it means to pass by reference
+  - Multiple references to same object
+  - Lists as parameters to functions
+  - Learn about function side effects
+
 #### Section 03 - Dictionary
 
 #### Section 04 - Tuple
