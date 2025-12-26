@@ -32,6 +32,11 @@
       - [Section 02 - References](#section-02---references)
       - [Section 03 - Dictionary](#section-03---dictionary)
       - [Section 04 - Tuple](#section-04---tuple)
+    - [Part 06](#part-06)
+      - [Section 01 - Reading files](#section-01---reading-files)
+      - [Section 02 - Writing files](#section-02---writing-files)
+      - [Section 03 - Handling errors](#section-03---handling-errors)
+      - [Section 04 - Local and global variables](#section-04---local-and-global-variables)
 
 ## Sections
 
@@ -369,3 +374,13 @@
   - Create tuples with various types of values
   - Differentiate a `tuple` from a `list`
   - Familiarize yourself with tuple use cases
+
+### Part 06
+
+#### Section 01 - Reading files
+
+#### Section 02 - Writing files
+
+#### Section 03 - Handling errors
+
+#### Section 04 - Local and global variables
