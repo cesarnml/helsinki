@@ -318,6 +318,15 @@
 
 ### Part 05
 
+**Summary:**
+
+- **Total Duration:** ~6 hours 3 minutes (363 minutes)
+  - Section 01: ~17 minutes
+  - Section 02: ~2 hours 49 minutes
+  - Section 03: ~1 hour 19 minutes
+  - Section 04: ~1 hour 38 minutes
+- **Completed:** 2025.12.26
+
 #### Section 01 - More lists
 
 - **Started:** 2025.12.26 12:13PM
@@ -352,6 +361,9 @@
 
 #### Section 04 - Tuple
 
+- **Started:** 2025.12.26 07:23PM
+- **Completed:** 2025.12.26 09:01PM
+- **Duration:** ~1 hour 38 minutes
 - Learning Objectives:
   - Use the `tuple` data type
   - Create tuples with various types of values
