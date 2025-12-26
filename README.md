@@ -341,4 +341,10 @@
 
 #### Section 03 - Dictionary
 
+- Learning Objectives:
+  - Use `dictionary` structure
+  - Learn about dictionary `keys` and `values`
+  - Traverse the contents of dictionary
+  - Name typical use cases for a dictionary
+
 #### Section 04 - Tuple
