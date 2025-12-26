@@ -241,13 +241,31 @@
 
 #### Section 01 - The VS Code
 
-- Learning Outcomes
+- **Duration:** 10 minutes
+- Learning Objectives:
   - Use VS Code
   - Python interactive interpreter
 
 #### Section 02 - More functions
 
+- **Duration:** 20 minutes
+- Learning Objectives:
+  - Learn more about function parameters and arguments
+  - Learn about function return values
+  - Learn about type hints
+- Python data types:
+  - `int`
+  - `float`
+  - `str`
+  - `bool`
+
 #### Section 03 - Lists
+
+- Learning Objectives:
+  - Learn about _lists_
+  - Access a specified item within a list
+  - Learn how to add and remove items from a list
+  - Learn about built-in list functions and methods
 
 #### Section 04 - Definite iteration
 
