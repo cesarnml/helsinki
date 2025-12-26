@@ -291,3 +291,8 @@
   - Learn to format `f-strings`
 
 #### Section 06 - More strings and lists
+
+- Learning Objectives:
+  - Learn about slicing strings and lists
+  - Learn about immutability of strings
+  - Use `count` and `replace` methods
