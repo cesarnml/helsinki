@@ -330,6 +330,9 @@
 
 #### Section 02 - References
 
+- **Started:** 2025.12.26 12:30PM
+- **Completed:** 2025.12.26 03:19PM
+- **Duration:** ~2 hours 49 minutes
 - Learning Objectives:
   - Know what it means to pass by reference
   - Multiple references to same object
