@@ -273,6 +273,9 @@
 
 #### Section 04 - Definite iteration
 
+- **Started:** 2025.12.26 09:47AM
+- **Completed:** 2025.12.26 10:02AM
+- **Duration:** ~15 minutes
 - Learning Objectives:
   - Distinguish definite vs indefinite iteration
   - Use `for` loop
