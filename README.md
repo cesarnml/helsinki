@@ -261,6 +261,9 @@
 
 #### Section 03 - Lists
 
+- **Started:** 2025.12.26 09:23AM
+- **Completed:** 2025.12.26 09:47AM
+- **Duration:** ~24 minutes
 - Learning Objectives:
   - Learn about _lists_
   - Access a specified item within a list
@@ -269,6 +272,11 @@
 - .sort() vs sorted()
 
 #### Section 04 - Definite iteration
+
+- Learning Objectives:
+  - Distinguish definite vs indefinite iteration
+  - Use `for` loop
+  - Use `for` loop to iterate using lists and strings
 
 #### Section 05 - Print statement formatting
 
