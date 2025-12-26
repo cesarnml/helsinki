@@ -320,6 +320,11 @@
 
 #### Section 01 - More lists
 
+- Learning Objectives:
+  - Lists with different types of items
+  - Use lists to organize data
+  - Mimic a matrix using a two-dimensional list
+
 #### Section 02 - References
 
 #### Section 03 - Dictionary
