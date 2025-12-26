@@ -284,5 +284,7 @@
 #### Section 05 - Print statement formatting
 
 - Learning objectives:
+  - Learn how to format `print` command
+  - Learn to format `f-strings`
 
 #### Section 06 - More strings and lists
