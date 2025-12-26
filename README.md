@@ -266,6 +266,7 @@
   - Access a specified item within a list
   - Learn how to add and remove items from a list
   - Learn about built-in list functions and methods
+- .sort() vs sorted()
 
 #### Section 04 - Definite iteration
 
