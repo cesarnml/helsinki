@@ -351,3 +351,9 @@
   - Name typical use cases for a dictionary
 
 #### Section 04 - Tuple
+
+- Learning Objectives:
+  - Use the `tuple` data type
+  - Create tuples with various types of values
+  - Differentiate a `tuple` from a `list`
+  - Familiarize yourself with tuple use cases
