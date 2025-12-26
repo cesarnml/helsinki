@@ -239,6 +239,17 @@
 
 ### Part 04
 
+**Summary:**
+
+- **Total Duration:** ~1 hour 35 minutes (95 minutes)
+  - Section 01: ~10 minutes
+  - Section 02: ~20 minutes
+  - Section 03: ~24 minutes
+  - Section 04: ~15 minutes
+  - Section 05: ~12 minutes
+  - Section 06: ~14 minutes
+- **Completed:** 2025.12.26
+
 #### Section 01 - The VS Code
 
 - **Duration:** 10 minutes
@@ -292,6 +303,9 @@
 
 #### Section 06 - More strings and lists
 
+- **Started:** 2025.12.26 10:18AM
+- **Completed:** 2025.12.26 10:32AM
+- **Duration:** ~14 minutes
 - Learning Objectives:
   - Learn about slicing strings and lists
   - Learn about immutability of strings
