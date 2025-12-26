@@ -283,4 +283,6 @@
 
 #### Section 05 - Print statement formatting
 
+- Learning objectives:
+
 #### Section 06 - More strings and lists
