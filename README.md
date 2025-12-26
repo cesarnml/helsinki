@@ -27,6 +27,11 @@
       - [Section 04 - Definite iteration](#section-04---definite-iteration)
       - [Section 05 - Print statement formatting](#section-05---print-statement-formatting)
       - [Section 06 - More strings and lists](#section-06---more-strings-and-lists)
+    - [Part 05](#part-05)
+      - [Section 01 - More lists](#section-01---more-lists)
+      - [Section 02 - References](#section-02---references)
+      - [Section 03 - Dictionary](#section-03---dictionary)
+      - [Section 04 - Tuple](#section-04---tuple)
 
 ## Sections
 
@@ -310,3 +315,13 @@
   - Learn about slicing strings and lists
   - Learn about immutability of strings
   - Use `count` and `replace` methods
+
+### Part 05
+
+#### Section 01 - More lists
+
+#### Section 02 - References
+
+#### Section 03 - Dictionary
+
+#### Section 04 - Tuple
