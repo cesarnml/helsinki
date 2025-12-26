@@ -283,7 +283,10 @@
 
 #### Section 05 - Print statement formatting
 
-- Learning objectives:
+- **Started:** 2025.12.26 10:05AM
+- **Completed:** 2025.12.26 10:17AM
+- **Duration:** ~12 minutes
+- Learning Objectives:
   - Learn how to format `print` command
   - Learn to format `f-strings`
 
