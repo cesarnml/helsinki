@@ -379,6 +379,11 @@
 
 #### Section 01 - Reading files
 
+- Learning Objectives:
+  - Learn how to read files in Python
+  - Distinguish text files from CSV files
+  - Process CSV files using Python
+
 #### Section 02 - Writing files
 
 #### Section 03 - Handling errors
