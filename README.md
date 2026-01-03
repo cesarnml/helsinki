@@ -379,6 +379,7 @@
 
 #### Section 01 - Reading files
 
+- **Duration:** ~2 hours
 - Learning Objectives:
   - Learn how to read files in Python
   - Distinguish text files from CSV files
