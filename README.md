@@ -387,6 +387,12 @@
 
 #### Section 02 - Writing files
 
+- **Duration:** ~2 hours
+- Learning Objectives:
+  - Learn how to create files in python
+  - Learn how to write text to files in python
+  - Learn how to write CSV files
+
 #### Section 03 - Handling errors
 
 #### Section 04 - Local and global variables
