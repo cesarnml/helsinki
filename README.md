@@ -52,10 +52,10 @@
     - [x] ~~_Section 02 - More conditionals_~~ [2025-11-08]
     - [x] ~~_Section 03 - Combining conditions_~~ [2025-11-08]
     - [x] ~~_Section 04 - Simple loops_~~ [2025-11-08]
-  - [x] ~~_Part 03_~~ [2025-11-11]
-  - [ ] Part 04
-  - [ ] Part 05
-  - [ ] Part 06
+  - [x] ~~_Part 03_~~ [2025-11-27]
+  - [x] ~~_Part 04_~~ [2025-12-26]
+  - [x] ~~_Part 05_~~ [2025-12-26]
+  - [x] ~~_Part 06_~~ [2026-01-07]
   - [ ] Part 07
 - Advanced Course in Programming
   - [ ] Part 08
@@ -203,7 +203,7 @@
   - Section 03: ~56 minutes
   - Section 04: ~1 hour (60 minutes)
 - **Completed:** 2025.11.27
-- Watched Part03 Lecture (90 minutes but at 2x speed so 45 min)
+- Watched Parecture (90 minutes but at 2x speed so 45 min)
 - Total with lecture: ~5.4 hours
 
 #### Section 01 - Loops with conditions
@@ -395,4 +395,18 @@
 
 #### Section 03 - Handling errors
 
+- **Duration:** ~1 hour
+- Learning Objectives:
+  - Handle invalid input
+  - Understand exceptions in code
+  - Familiarize yourself with common exception types
+  - Handle exceptions in your own programs
+
 #### Section 04 - Local and global variables
+
+- **Duration:** ~1 hour
+- Learning Objectives:
+  - Learn what is meant by a local variable
+  - Learn about variable scope
+  - Learn about `global` keyword
+  - Master variable scope context
