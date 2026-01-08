@@ -37,6 +37,13 @@
       - [Section 02 - Writing files](#section-02---writing-files)
       - [Section 03 - Handling errors](#section-03---handling-errors)
       - [Section 04 - Local and global variables](#section-04---local-and-global-variables)
+    - [Part 07](#part-07)
+      - [Section 01 - Modules](#section-01---modules)
+      - [Section 02 - Randomness](#section-02---randomness)
+      - [Section 03 - Times and dates](#section-03---times-and-dates)
+      - [Section 04 - Data processing](#section-04---data-processing)
+      - [Section 05 - Creating your own modules](#section-05---creating-your-own-modules)
+      - [Section 06 - More Python features](#section-06---more-python-features)
 
 ## Sections
 
@@ -410,3 +417,17 @@
   - Learn about variable scope
   - Learn about `global` keyword
   - Master variable scope context
+
+### Part 07
+
+#### Section 01 - Modules
+
+#### Section 02 - Randomness
+
+#### Section 03 - Times and dates
+
+#### Section 04 - Data processing
+
+#### Section 05 - Creating your own modules
+
+#### Section 06 - More Python features
