@@ -462,6 +462,7 @@
 
 #### Section 05 - Creating your own modules
 
+- **Duration:** ~15 minutes
 - Learning Objectives:
   - Write custom modules
   - Learn about `__name__` and `__main__`
