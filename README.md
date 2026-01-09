@@ -468,3 +468,6 @@
   - Learn about `__name__` and `__main__`
 
 #### Section 06 - More Python features
+
+- Learning Objectives:
+  - More features(yay!)
