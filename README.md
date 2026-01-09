@@ -384,6 +384,15 @@
 
 ### Part 06
 
+**Summary:**
+
+- **Total Duration:** ~6 hours
+  - Section 01: ~2 hours
+  - Section 02: ~2 hours
+  - Section 03: ~1 hour
+  - Section 04: ~1 hour
+- **Completed:** 2026-01-07
+
 #### Section 01 - Reading files
 
 - **Duration:** ~2 hours
@@ -421,6 +430,9 @@
 ### Part 07
 
 #### Section 01 - Modules
+
+- **Duration:** ~1 hour
+  console.log('Modules:', Modules)
 
 - Learning Objectives
   - Learn about Python Modules
