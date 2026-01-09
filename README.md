@@ -441,6 +441,10 @@
 
 #### Section 02 - Randomness
 
+- Learning Objectives
+  - Learn about `random` module
+  - Make use of random numbers in programs
+
 #### Section 03 - Times and dates
 
 #### Section 04 - Data processing
