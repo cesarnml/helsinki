@@ -454,6 +454,11 @@
 
 #### Section 04 - Data processing
 
+- Learning Objectives:
+  - Learn about the `csv` module
+  - Learn about the `json` module
+  - Retrieve and read files from the internet
+
 #### Section 05 - Creating your own modules
 
 #### Section 06 - More Python features
