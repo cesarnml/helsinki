@@ -454,11 +454,16 @@
 
 #### Section 04 - Data processing
 
+- **Duration:** ~2 hours
 - Learning Objectives:
   - Learn about the `csv` module
   - Learn about the `json` module
   - Retrieve and read files from the internet
 
 #### Section 05 - Creating your own modules
+
+- Learning Objectives:
+  - Write custom modules
+  - Learn about `__name__` and `__main__`
 
 #### Section 06 - More Python features
