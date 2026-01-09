@@ -446,6 +446,7 @@
 
 #### Section 03 - Times and dates
 
+- **Duration:** ~ 2 hours
 - Learning Objectives:
   - Learn how to handle dates and times in Python
   - Create and use `datetime` objects
