@@ -63,7 +63,7 @@
   - [x] ~~_Part 04_~~ [2025-12-26]
   - [x] ~~_Part 05_~~ [2025-12-26]
   - [x] ~~_Part 06_~~ [2026-01-07]
-  - [ ] Part 07
+  - [x] ~~_Part 07_~~ [2026-01-09]
 - Advanced Course in Programming
   - [ ] Part 08
   - [ ] Part 09
