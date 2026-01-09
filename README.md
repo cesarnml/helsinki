@@ -432,8 +432,6 @@
 #### Section 01 - Modules
 
 - **Duration:** ~1 hour
-  console.log('Modules:', Modules)
-
 - Learning Objectives
   - Learn about Python Modules
   - Use of the `import` statement to use modules
@@ -441,11 +439,17 @@
 
 #### Section 02 - Randomness
 
-- Learning Objectives
+- **Duration:** ~90 min
+- Learning Objectives:
   - Learn about `random` module
   - Make use of random numbers in programs
 
 #### Section 03 - Times and dates
+
+- Learning Objectives:
+  - Learn how to handle dates and times in Python
+  - Create and use `datetime` objects
+  - Learn how to compare to dates or times
 
 #### Section 04 - Data processing
 
