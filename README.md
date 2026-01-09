@@ -429,6 +429,8 @@
 
 ### Part 07
 
+- **Total Duration:** ~7 hours 45 minutes (465 minutes)
+
 #### Section 01 - Modules
 
 - **Duration:** ~1 hour
@@ -469,5 +471,10 @@
 
 #### Section 06 - More Python features
 
+- **Duration:** ~1 hour
 - Learning Objectives:
   - More features(yay!)
+  - Single line conditionals: `print("even" if x%2 == 0 else "odd")`
+  - Loops can execute an `else:` block if they complete
+  - You can set default parameters `def func_name(param1="default_value1", ...)`
+  - Variable number of args `def testing(*my_args)`
