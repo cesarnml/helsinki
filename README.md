@@ -422,6 +422,11 @@
 
 #### Section 01 - Modules
 
+- Learning Objectives
+  - Learn about Python Modules
+  - Use of the `import` statement to use modules
+  - Learn how to learn about modules
+
 #### Section 02 - Randomness
 
 #### Section 03 - Times and dates
