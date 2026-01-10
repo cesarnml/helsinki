@@ -489,6 +489,11 @@
 
 #### Section 01 - Object and methods
 
+- Learning Objectives:
+  - Learn what an object is in programming
+  - Learn about object _independence_
+  - Create and access objects
+
 #### Section 02 - Classes and objects
 
 #### Section 03 - Defining classes
