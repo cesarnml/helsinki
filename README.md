@@ -497,6 +497,7 @@
 
 #### Section 02 - Classes and objects
 
+- **Duration:** 20 min
 - Learning Objectives:
   - Learn what is a _class_
   - The connection between a _class_ and an _object_
