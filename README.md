@@ -44,6 +44,7 @@
       - [Section 04 - Data processing](#section-04---data-processing)
       - [Section 05 - Creating your own modules](#section-05---creating-your-own-modules)
       - [Section 06 - More Python features](#section-06---more-python-features)
+    - [Part 08](#part-08)
 
 ## Sections
 
@@ -166,7 +167,7 @@
 - Learning Objectives:
   - Review essential programming terminology
   - Difference between a programming **statement** and **expression**
-  - Determine the data type of an evaluated expressio
+  - Determine the data type of an evaluated expression
   - n
   - Learn some debugging methods
 - The `type` function can be used to determine the data type of an expression.
@@ -210,7 +211,7 @@
   - Section 03: ~56 minutes
   - Section 04: ~1 hour (60 minutes)
 - **Completed:** 2025.11.27
-- Watched Parecture (90 minutes but at 2x speed so 45 min)
+- Watched Lecture (90 minutes but at 2x speed so 45 min)
 - Total with lecture: ~5.4 hours
 
 #### Section 01 - Loops with conditions
@@ -478,3 +479,5 @@
   - Loops can execute an `else:` block if they complete
   - You can set default parameters `def func_name(param1="default_value1", ...)`
   - Variable number of args `def testing(*my_args)`
+
+### Part 08
