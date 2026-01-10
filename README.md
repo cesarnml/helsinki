@@ -497,6 +497,11 @@
 
 #### Section 02 - Classes and objects
 
+- Learning Objectives:
+  - Learn what is a _class_
+  - The connection between a _class_ and an _object_
+  - Know what is meant by object oriented programming (_OOP_)
+
 #### Section 03 - Defining classes
 
 #### Section 04 - Defining methods
