@@ -45,6 +45,11 @@
       - [Section 05 - Creating your own modules](#section-05---creating-your-own-modules)
       - [Section 06 - More Python features](#section-06---more-python-features)
     - [Part 08](#part-08)
+      - [Section 01 - Object and methods](#section-01---object-and-methods)
+      - [Section 02 - Classes and objects](#section-02---classes-and-objects)
+      - [Section 03 - Defining classes](#section-03---defining-classes)
+      - [Section 04 - Defining methods](#section-04---defining-methods)
+      - [Section 05 - More examples of classes](#section-05---more-examples-of-classes)
 
 ## Sections
 
@@ -481,3 +486,13 @@
   - Variable number of args `def testing(*my_args)`
 
 ### Part 08
+
+#### Section 01 - Object and methods
+
+#### Section 02 - Classes and objects
+
+#### Section 03 - Defining classes
+
+#### Section 04 - Defining methods
+
+#### Section 05 - More examples of classes
