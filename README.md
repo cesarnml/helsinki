@@ -516,9 +516,16 @@
 
 #### Section 04 - Defining methods
 
+- **Duration:** ~50 minutes
 - Learning Objectives:
   - Learn how `class` methods work
   - Use methods in a custom-defined class
   - Grok the concept of _encapsulation_ and _client_ in OOP
+- _One of the Guiding Principles of OOP is that an object is used to access both the data attached to an object and the functionality to process that data._
+- **Encapsulation** - to hide the implementation details of an object from the _client_
 
 #### Section 05 - More examples of classes
+
+- Learning Objectives:
+  - Create more versatile `class`es
+  - Add `__str__` method to your `class` definitions
