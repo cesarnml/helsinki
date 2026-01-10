@@ -505,6 +505,15 @@
 
 #### Section 03 - Defining classes
 
+- **Duration:** ~20 min
+- Learning Objectives:
+  - Learn how to define a `class`
+  - Instantiate objects defined by a custom class
+  - Learn how to write a _constructor_
+    - `def __init__(self, ...)`
+  - Familiarize yourself with `self`
+  - Learn about _attributes_
+
 #### Section 04 - Defining methods
 
 #### Section 05 - More examples of classes
