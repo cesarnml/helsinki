@@ -516,4 +516,9 @@
 
 #### Section 04 - Defining methods
 
+- Learning Objectives:
+  - Learn how `class` methods work
+  - Use methods in a custom-defined class
+  - Grok the concept of _encapsulation_ and _client_ in OOP
+
 #### Section 05 - More examples of classes
