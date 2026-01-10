@@ -489,6 +489,7 @@
 
 #### Section 01 - Object and methods
 
+- **Duration:** 34 min
 - Learning Objectives:
   - Learn what an object is in programming
   - Learn about object _independence_
