@@ -50,6 +50,7 @@
       - [Section 03 - Defining classes](#section-03---defining-classes)
       - [Section 04 - Defining methods](#section-04---defining-methods)
       - [Section 05 - More examples of classes](#section-05---more-examples-of-classes)
+      - [Part 09](#part-09)
 
 ## Sections
 
@@ -71,7 +72,7 @@
   - [x] ~~_Part 06_~~ [2026-01-07]
   - [x] ~~_Part 07_~~ [2026-01-09]
 - Advanced Course in Programming
-  - [ ] Part 08
+  - [x] ~~_Part 08_~~ [2026-01-11]
   - [ ] Part 09
   - [ ] Part 10
   - [ ] Part 11
@@ -487,6 +488,8 @@
 
 ### Part 08
 
+- **Duration**: ~2 hours 54 minutes (174 minutes)
+
 #### Section 01 - Object and methods
 
 - **Duration:** 34 min
@@ -526,6 +529,9 @@
 
 #### Section 05 - More examples of classes
 
+- **Duration:** ~1 hour
 - Learning Objectives:
   - Create more versatile `class`es
   - Add `__str__` method to your `class` definitions
+
+#### Part 09
