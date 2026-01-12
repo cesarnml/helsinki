@@ -565,6 +565,7 @@ class Person:
 
 ##### Section 02 - Objects as attributes
 
+- **Duration:** 1 hour
 - Learning Objectives:
   - Learn how to use objects as attributes in other objects
   - Learn about `None`
