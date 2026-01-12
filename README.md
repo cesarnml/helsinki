@@ -547,6 +547,20 @@
 - Learning Objectives:
   - Use different data structures for handling objects
   - Learn how to pass objects as arguments
+    > The operator isis used for checking if the two References refer to the exact same object, while the operator ==will tell you if the contents of the objects are the same.
+    > One of the principles of object oriented programming is to include any functionality which handles objects of a certain type in the class definition, as methods.
+
+```python
+class Person:
+    def __init__(self, name: str, year_of_birth: int):
+        self.name = name
+        self.year_of_birth = year_of_birth
+
+    # NB: type hints must be enclosed in quotation marks if the parameter
+    # is of the same type as the class itself!
+    def older_than(self, another: "Person"):
+        return self.year_of_birth < another.year_of_birth
+```
 
 ##### Section 02 - Objects as attributes
 
