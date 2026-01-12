@@ -51,6 +51,12 @@
       - [Section 04 - Defining methods](#section-04---defining-methods)
       - [Section 05 - More examples of classes](#section-05---more-examples-of-classes)
       - [Part 09](#part-09)
+        - [Section 01 - Objects and references](#section-01---objects-and-references)
+        - [Section 02 - Objects as attributes](#section-02---objects-as-attributes)
+        - [Section 03 - Encapsulation](#section-03---encapsulation)
+        - [Section 04 - Scope of methods](#section-04---scope-of-methods)
+        - [Section 05 - Class Attributes](#section-05---class-attributes)
+        - [Section 06 - More examples with classes](#section-06---more-examples-with-classes)
 
 ## Sections
 
@@ -535,3 +541,15 @@
   - Add `__str__` method to your `class` definitions
 
 #### Part 09
+
+##### Section 01 - Objects and references
+
+##### Section 02 - Objects as attributes
+
+##### Section 03 - Encapsulation
+
+##### Section 04 - Scope of methods
+
+##### Section 05 - Class Attributes
+
+##### Section 06 - More examples with classes
