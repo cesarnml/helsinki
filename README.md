@@ -544,6 +544,10 @@
 
 ##### Section 01 - Objects and references
 
+- Learning Objectives:
+  - Use different data structures for handling objects
+  - Learn how to pass objects as arguments
+
 ##### Section 02 - Objects as attributes
 
 ##### Section 03 - Encapsulation
