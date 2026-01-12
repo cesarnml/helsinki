@@ -544,6 +544,7 @@
 
 ##### Section 01 - Objects and references
 
+- **Duration:** 56 minutes
 - Learning Objectives:
   - Use different data structures for handling objects
   - Learn how to pass objects as arguments
@@ -563,6 +564,10 @@ class Person:
 ```
 
 ##### Section 02 - Objects as attributes
+
+- Learning Objectives:
+  - Learn how to use objects as attributes in other objects
+  - Learn about `None`
 
 ##### Section 03 - Encapsulation
 
