@@ -565,12 +565,17 @@ class Person:
 
 ##### Section 02 - Objects as attributes
 
-- **Duration:** 1 hour
+- **Duration:** 45 minutes
 - Learning Objectives:
   - Learn how to use objects as attributes in other objects
   - Learn about `None`
 
 ##### Section 03 - Encapsulation
+
+- Learning Objectives:
+  - Learn about _encapsulation_
+  - Create _private_ attributes
+  - Create _getters_ and _setters_
 
 ##### Section 04 - Scope of methods
 
