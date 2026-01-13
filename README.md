@@ -582,6 +582,7 @@ class Person:
 
 ##### Section 04 - Scope of methods
 
+- **Duration:** 15 minutes
 - Learning Objectives:
   - Learn how to declare private methods
   - Practice writing private methods
