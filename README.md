@@ -577,6 +577,8 @@ class Person:
   - Create _private_ attributes
   - Create _getters_ and _setters_
 
+> Hiding attributes from clients is called encapsulation .
+
 ##### Section 04 - Scope of methods
 
 ##### Section 05 - Class Attributes
