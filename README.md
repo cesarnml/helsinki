@@ -582,6 +582,10 @@ class Person:
 
 ##### Section 04 - Scope of methods
 
+- Learning Objectives:
+  - Learn how to declare private methods
+  - Practice writing private methods
+
 ##### Section 05 - Class Attributes
 
 ##### Section 06 - More examples with classes
