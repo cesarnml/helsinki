@@ -572,6 +572,7 @@ class Person:
 
 ##### Section 03 - Encapsulation
 
+- **Duration:** ~45 minutes
 - Learning Objectives:
   - Learn about _encapsulation_
   - Create _private_ attributes
