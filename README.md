@@ -597,6 +597,7 @@ class Person:
 
 ##### Section 06 - More examples with classes
 
+- **Duration:** 90 minutes
 - Learning Objectives:
   - Familiarize with more class and object examples
   - Use of default parameters
