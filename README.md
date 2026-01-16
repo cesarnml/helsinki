@@ -57,6 +57,11 @@
         - [Section 04 - Scope of methods](#section-04---scope-of-methods)
         - [Section 05 - Class Attributes](#section-05---class-attributes)
         - [Section 06 - More examples with classes](#section-06---more-examples-with-classes)
+      - [Part 10](#part-10)
+      - [Part 11](#part-11)
+      - [Part 12](#part-12)
+      - [Part 13](#part-13)
+      - [Part 14](#part-14)
 
 ## Sections
 
@@ -601,3 +606,13 @@ class Person:
 - Learning Objectives:
   - Familiarize with more class and object examples
   - Use of default parameters
+
+#### Part 10
+
+#### Part 11
+
+#### Part 12
+
+#### Part 13
+
+#### Part 14
