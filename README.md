@@ -589,9 +589,14 @@ class Person:
 
 ##### Section 05 - Class Attributes
 
+- **Duration:** 30 minutes
 - Learning Objectives:
   - Familiarize yourself with class variable and class method
   - Explore static traits vs instance traits
   - Add static traits to custom classes
 
 ##### Section 06 - More examples with classes
+
+- Learning Objectives:
+  - Familiarize with more class and object examples
+  - Use of default parameters
