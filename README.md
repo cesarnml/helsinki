@@ -615,6 +615,7 @@ class Person:
 
 ##### Section 01 - Class hierarchies
 
+- **Duration:** 30 min
 - Learning Objectives:
   - Learn about _inheritance_
   - Implement inheritance
@@ -622,7 +623,17 @@ class Person:
 
 ##### Section 02 - Access modifiers
 
+- **Duration:**
+- Learning Objectives:
+  - Learn about `private` and `protected` access modifiers
+  - Learn about trait visibility in Python
+
 ##### Section 03 - Object oriented programming techniques
+
+- Learning Objectives:
+  - Learn about different use cases for `self` keyword
+  - Learn about _operator overloading_
+  - Create an _iterable_ class
 
 ##### Section 04 Developing a larger application
 
