@@ -63,7 +63,7 @@
         - [Section 03 - Object oriented programming techniques](#section-03---object-oriented-programming-techniques)
         - [Section 04 Developing a larger application](#section-04-developing-a-larger-application)
       - [Part 11](#part-11)
-      - [Part 12d](#part-12d)
+      - [Part 12](#part-12)
       - [Part 13](#part-13)
       - [Part 14](#part-14)
 
@@ -639,10 +639,12 @@ class Person:
 
 #### Part 11
 
-- Learning Objectives:
-  -
+- ## Learning Objectives:
 
-#### Part 12d
+#### Part 12
+
+- Learning Objectives:
+  m
 
 #### Part 13
 
