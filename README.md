@@ -637,14 +637,21 @@ class Person:
 
 ##### Section 04 Developing a larger application
 
+- Learning Objectives:
+  - Cover basic principles of application development
+  - Differentiate different parts of an application:
+    - user interface
+    - program logic
+    - file handling
+  - Practice coding up a somewhat large application
+
 #### Part 11
 
-- ## Learning Objectives:
+- Learning Objectives:
 
 #### Part 12
 
 - Learning Objectives:
-  m
 
 #### Part 13
 
