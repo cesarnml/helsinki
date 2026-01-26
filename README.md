@@ -89,7 +89,7 @@
 - Advanced Course in Programming
   - [x] ~~_Part 08_~~ [2026-01-11]
   - [x] ~~_Part 09_~~ [2026-01-15]
-  - [ ] Part 10
+  - [x] ~~_Part 10_~~ [2026-01-26]
   - [ ] Part 11
   - [ ] Part 12
   - [ ] Part 13
