@@ -1,0 +1,13 @@
+course = "hy-adv-course-in-prog-exam-28022026"
+
+[exercises.Exam28022026-Exercise1]
+id = 311551
+checksum = "94203aaaef079508ffd4ce857cb995c5"
+
+[exercises.Exam28022026-Exercise2]
+id = 311553
+checksum = "3d2e6998a6c2aeb569c0b3e445306723"
+
+[exercises.Exam28022026-Exercise3]
+id = 311552
+checksum = "82e0b37b3c06524f71255b10a0e88dc0"
